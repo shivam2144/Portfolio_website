@@ -1,0 +1,115 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/icon/html-5.png",
+      "title": "HTML"
+    },
+    {
+      "id": "2",
+      "src": "./img/icon/css.png",
+      "title": "CSS"
+    },
+    {
+      "id": "3",
+      "src": "./img/icon/java-script.png",
+      "title": "JavaScript"
+    },
+    {
+      "id": "4",
+      "src": "./img/icon/reactjs.png",
+      "title": "React.js"
+    },
+    {
+      "id": "5",
+      "src": "./img/icon/api.png",
+      "title":  "Context API"
+    },
+    {
+      "id": "6",
+      "src": "./img/icon/mongodb.png",
+      "title": "MongoDB"
+      
+    },
+    {
+      "id": "7",
+      "src": "./img/icon/Node_express.png",
+      "title": "Express js"
+    },
+    {
+      "id": "8",
+      "src": "./img/icon/php.png",
+      "title": "PHP"
+    },
+    {
+      "id": "9",
+      "src": "./img/icon/bootstrap.png",
+      "title": "Bootstrap"
+    },
+    {
+      "id": "10",
+      "src": "./img/icon/Tailwind.jpg",
+      "title": "Tailwind CSS"
+    },
+    {
+      "id": "11",
+      "src": "./img/icon/python.png",
+      "title":  " Python"
+    },
+    {
+      "id": "12",
+      "src": "./img/icon/c-plus-plus.png",
+      "title": "C++"
+      
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/swapshop.png",
+      "title": "NIT Store House",
+      "description": "Developed NIT Store House, an online student marketplace for buying and selling essential items within a college campus. The platform helps students trade books, electronics, and other goods efficiently.",
+      "link": "https://github.com/"
+    },
+    {
+      "id": "2",
+      "src": "./img/harvestify.png",
+      "title": "Smart Agriculture",
+      "description": "Developed a Crop Prediction System using Machine Learning and Data Analytics to help farmers select the best crops based on soil conditions, weather patterns, and environmental factors.(Python , ML Models ,React.js)",
+      "link": "https://github.com/"
+    },
+    {
+      "id": "3",
+      "src": "./img/portfolio_page.png",
+      "title": "Portfolio Website",
+      "description": "Designed and developed a personal portfolio website to showcase skills, projects, and achievements as a Full-Stack Developer with expertise in DSA, problem-solving, and web development.(React.js,HTML,Javascript,Tailwind CSS)",
+      "link": "https://github.com/"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
