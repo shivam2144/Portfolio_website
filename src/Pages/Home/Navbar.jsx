@@ -73,7 +73,7 @@ function Navbar() {
               to="MyPortfolio"
               className="navbar--content"
             >
-              Pojects work
+              Projects 
             </Link>
           </li>
           <li>
